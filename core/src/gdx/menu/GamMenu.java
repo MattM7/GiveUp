@@ -8,6 +8,8 @@ import gdx.menu.Screens.ScrGameover;
 /**
  * Created by luke on 2016-04-05.
  * This is the master "game" class that contains all the screens.
+ * 
+ * Very Cool
  */
 
 public class GamMenu extends Game {
