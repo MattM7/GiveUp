@@ -9,9 +9,7 @@ import gdx.menu.Screens.ScrGameover;
  * Created by luke on 2016-04-05.
  * This is the master "game" class that contains all the screens.
  * 
- * Very Cool
- * Says you
- * y u make me do dis aby
+ * go away abhi
  */
 
 public class GamMenu extends Game {
